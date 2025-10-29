@@ -17,8 +17,12 @@ const WORK: WorkItem[] = [
     period: '2024 — 2025',
     skills: ['react', 'typescript', 'aws'],
     bullets: [
-      'Built serverless APIs and workflows (AWS Lambda) and a React frontend used by public-health teams.',
-      'Implemented monitoring dashboards and analytics to increase observability for field teams.',
+      
+      'Designed and delivered end-to-end solutions, developing serverless APIs and distributed workflows with AWS Lambda, API Gateway, and PostgreSQL, improving data retrieval times by 25%.',
+'Built a customer-facing React.js web application using Redux Toolkit and TypeScript, enhancing component reusability by 40% and improving page load performance by 20%.',
+'Implemented system monitoring dashboards for real-time analytics, improving operational visibility and facilitating faster issue resolution.',
+'Collaborated with product managers and engineering teams to enhance product development cycles, ensuring alignment with user requirements and business goals.',
+
     ],
     logo: '/company/civilience.svg',
   },
@@ -28,9 +32,13 @@ const WORK: WorkItem[] = [
     period: '2019 — 2022',
     skills: ['angular', 'java', 'spring', 'docker', 'jenkins'],
     bullets: [
-      'Developed and maintained the account opening frontend using Angular with complex multi-step forms and identity integrations.',
-      'Built Java/Spring backend services for onboarding workflows and downstream integrations.',
-      'Owned CI/CD pipelines and deployments using Jenkins and Docker; implemented blue/green rollouts.',
+      'Developed and maintained large-scale production systems using Java, Spring Boot, Angular, React, and SQL Server, achieving 99.9% uptime in core banking applications.',
+      'Created distributed microservices and REST APIs, improving throughput and reducing account onboarding time by 35%, supporting thousands of daily users.',
+      'Built a Kafka-based log aggregation and monitoring solution, enabling faster troubleshooting and reducing incident resolution times by 40%.',
+      'Optimized engineering processes and CI/CD pipelines (Maven, Jenkins, GitLab), increasing deployment efficiency by 30% and reducing production errors.',
+      'Collaborated with business groups, architects, and cross-functional teams to deliver secure, customer-facing solutions, aligning features with strategic goals.',
+      'Mentored junior developers, enforcing coding standards and best practices to maintain high code quality and reliability.'
+
     ],
     logo: '/company/dbs.svg',
   },
